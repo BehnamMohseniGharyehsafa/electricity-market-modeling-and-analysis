@@ -1,0 +1,180 @@
+{
+  "status": "passed",
+  "reloaded_model_date_checks": 33,
+  "maximum_allowed_difference_usd_mwh": 0.001,
+  "checks": [
+    {
+      "date": "2025-01-15",
+      "model": "DailyNaive",
+      "max_reload_difference": 0.0
+    },
+    {
+      "date": "2025-01-15",
+      "model": "WeeklyNaive",
+      "max_reload_difference": 0.0
+    },
+    {
+      "date": "2025-01-15",
+      "model": "Ridge",
+      "max_reload_difference": 3.0517578125e-05
+    },
+    {
+      "date": "2025-01-15",
+      "model": "ExtraTrees",
+      "max_reload_difference": 5.684341886080802e-14
+    },
+    {
+      "date": "2025-01-15",
+      "model": "XGBoost",
+      "max_reload_difference": 0.0
+    },
+    {
+      "date": "2025-01-15",
+      "model": "DLinear",
+      "max_reload_difference": 1.52587890625e-05
+    },
+    {
+      "date": "2025-01-15",
+      "model": "LSTM",
+      "max_reload_difference": 1.52587890625e-05
+    },
+    {
+      "date": "2025-01-15",
+      "model": "PatchTST",
+      "max_reload_difference": 3.0517578125e-05
+    },
+    {
+      "date": "2025-01-15",
+      "model": "iTransformer",
+      "max_reload_difference": 3.0517578125e-05
+    },
+    {
+      "date": "2025-01-15",
+      "model": "ValidationEnsemble",
+      "max_reload_difference": 1.52587890625e-05
+    },
+    {
+      "date": "2025-01-15",
+      "model": "QuantileBoosting",
+      "max_reload_difference": 0.0
+    },
+    {
+      "date": "2025-07-15",
+      "model": "DailyNaive",
+      "max_reload_difference": 0.0
+    },
+    {
+      "date": "2025-07-15",
+      "model": "WeeklyNaive",
+      "max_reload_difference": 0.0
+    },
+    {
+      "date": "2025-07-15",
+      "model": "Ridge",
+      "max_reload_difference": 1.52587890625e-05
+    },
+    {
+      "date": "2025-07-15",
+      "model": "ExtraTrees",
+      "max_reload_difference": 1.4210854715202004e-14
+    },
+    {
+      "date": "2025-07-15",
+      "model": "XGBoost",
+      "max_reload_difference": 0.0
+    },
+    {
+      "date": "2025-07-15",
+      "model": "DLinear",
+      "max_reload_difference": 7.62939453125e-06
+    },
+    {
+      "date": "2025-07-15",
+      "model": "LSTM",
+      "max_reload_difference": 7.62939453125e-06
+    },
+    {
+      "date": "2025-07-15",
+      "model": "PatchTST",
+      "max_reload_difference": 1.52587890625e-05
+    },
+    {
+      "date": "2025-07-15",
+      "model": "iTransformer",
+      "max_reload_difference": 1.52587890625e-05
+    },
+    {
+      "date": "2025-07-15",
+      "model": "ValidationEnsemble",
+      "max_reload_difference": 7.62939453125e-06
+    },
+    {
+      "date": "2025-07-15",
+      "model": "QuantileBoosting",
+      "max_reload_difference": 0.0
+    },
+    {
+      "date": "2025-12-15",
+      "model": "DailyNaive",
+      "max_reload_difference": 0.0
+    },
+    {
+      "date": "2025-12-15",
+      "model": "WeeklyNaive",
+      "max_reload_difference": 0.0
+    },
+    {
+      "date": "2025-12-15",
+      "model": "Ridge",
+      "max_reload_difference": 4.57763671875e-05
+    },
+    {
+      "date": "2025-12-15",
+      "model": "ExtraTrees",
+      "max_reload_difference": 5.684341886080802e-14
+    },
+    {
+      "date": "2025-12-15",
+      "model": "XGBoost",
+      "max_reload_difference": 0.0
+    },
+    {
+      "date": "2025-12-15",
+      "model": "DLinear",
+      "max_reload_difference": 1.52587890625e-05
+    },
+    {
+      "date": "2025-12-15",
+      "model": "LSTM",
+      "max_reload_difference": 3.0517578125e-05
+    },
+    {
+      "date": "2025-12-15",
+      "model": "PatchTST",
+      "max_reload_difference": 4.57763671875e-05
+    },
+    {
+      "date": "2025-12-15",
+      "model": "iTransformer",
+      "max_reload_difference": 1.52587890625e-05
+    },
+    {
+      "date": "2025-12-15",
+      "model": "ValidationEnsemble",
+      "max_reload_difference": 1.52587890625e-05
+    },
+    {
+      "date": "2025-12-15",
+      "model": "QuantileBoosting",
+      "max_reload_difference": 0.0
+    }
+  ],
+  "selected_model_recomputed_metrics": {
+    "mae": 9.900568008422852,
+    "rmse": 18.775259017944336,
+    "bias": -1.3522181510925293,
+    "spike_mae": 38.019317626953125,
+    "peak_hour_accuracy": 0.5619834710743802
+  },
+  "point_and_interval_inference_roundtrip": "passed on three specified dates"
+}

@@ -1,0 +1,32 @@
+{
+  "first_day": "2022-01-01",
+  "last_day": "2025-12-31",
+  "days": 1461,
+  "zones": [
+    "CAPITL",
+    "CENTRL",
+    "DUNWOD",
+    "GENESE",
+    "HUD VL",
+    "LONGIL",
+    "MHK VL",
+    "MILLWD",
+    "N.Y.C.",
+    "NORTH",
+    "WEST"
+  ],
+  "internal_zone_rows": 385704,
+  "non_24_hour_days": [
+    "2022-03-13",
+    "2022-11-06",
+    "2023-03-12",
+    "2023-11-05",
+    "2024-03-10",
+    "2024-11-03",
+    "2025-03-09",
+    "2025-11-02"
+  ],
+  "min_price": -10.779999732971191,
+  "max_price": 653.4099731445312,
+  "negative_price_cells": 17
+}

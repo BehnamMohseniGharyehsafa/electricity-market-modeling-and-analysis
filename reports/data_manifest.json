@@ -1,0 +1,296 @@
+{
+  "source": "NYISO P-2A day-ahead zonal LBMP",
+  "unit": "USD/MWh",
+  "manifest_created_utc": "2026-10-22T08:38:27.330884+00:00",
+  "note": "Archived prices may include subsequent corrections; not an as-of vintage archive.",
+  "archives": [
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20220101damlbmp_zone_csv.zip",
+      "sha256": "44f2a2b085c10c57a8f547752267261853cad055ed642be510037ac19233d0c1",
+      "bytes": 132748,
+      "daily_files": 31
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20220201damlbmp_zone_csv.zip",
+      "sha256": "75adbdd4497b7c6aa5db039e5030cbcf47a1885827f18b5945055e78902754ff",
+      "bytes": 120537,
+      "daily_files": 28
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20220301damlbmp_zone_csv.zip",
+      "sha256": "e2ea182b05a34f0d831306ed011dc7a299d9de803111357635140b81561936b5",
+      "bytes": 131419,
+      "daily_files": 31
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20220401damlbmp_zone_csv.zip",
+      "sha256": "4e746dd2370ed1f85076f17be38ec26d9eb3400be729918422d60fad8e31a807",
+      "bytes": 126573,
+      "daily_files": 30
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20220501damlbmp_zone_csv.zip",
+      "sha256": "2bdc9382ca3ca6246bc651747caea2bf9dc4885fb6263812944b6760e34cf5be",
+      "bytes": 131836,
+      "daily_files": 31
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20220601damlbmp_zone_csv.zip",
+      "sha256": "35744f4b8f1fb67d97c6187883104ebc13d81f8812c9cb9352093ba2b0be4303",
+      "bytes": 127905,
+      "daily_files": 30
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20220701damlbmp_zone_csv.zip",
+      "sha256": "de7b7b30593462b460428f2d227c93bee38889e0743bd962bd142b03552d5b2c",
+      "bytes": 129903,
+      "daily_files": 31
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20220801damlbmp_zone_csv.zip",
+      "sha256": "892a840a014eb5fba46d1503101a10320e5b86e98eac08727e5710272047e8ad",
+      "bytes": 131658,
+      "daily_files": 31
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20220901damlbmp_zone_csv.zip",
+      "sha256": "83e57bfb31b2ba447c6d6cbf3ca1a77e6bdc3c6d8735257af2d8bdbd233bab41",
+      "bytes": 126903,
+      "daily_files": 30
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20221001damlbmp_zone_csv.zip",
+      "sha256": "c1a22a783414c44537566d474e68244578f80843a51a9d700a442b19a6d5cab7",
+      "bytes": 128614,
+      "daily_files": 31
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20221101damlbmp_zone_csv.zip",
+      "sha256": "2e782246d8c28e932d8ee1b8c4b40157a194750a24c6361d7668bdbf265698d6",
+      "bytes": 125729,
+      "daily_files": 30
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20221201damlbmp_zone_csv.zip",
+      "sha256": "0070b07cb5e4b62dbcd811205e424ddf54965851c35fca7a61282cf233861a6a",
+      "bytes": 133809,
+      "daily_files": 31
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20230101damlbmp_zone_csv.zip",
+      "sha256": "b931638c85dd255645fef6bcd61ec24ab0f4b5a04655617ebd6ad7ebebae8c8a",
+      "bytes": 125972,
+      "daily_files": 31
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20230201damlbmp_zone_csv.zip",
+      "sha256": "1cc0df23b835254f01f8044e0fe31689642cb32382b0b7da8ed51565548df2e4",
+      "bytes": 116805,
+      "daily_files": 28
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20230301damlbmp_zone_csv.zip",
+      "sha256": "b7711f072003968797e40c7baf121a051b69091d4371d9991f2980c8de5c6d4f",
+      "bytes": 126601,
+      "daily_files": 31
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20230401damlbmp_zone_csv.zip",
+      "sha256": "d0bfd81f0c11904fe44fbe63908abe8a86eeca706e64d2abafa8ae6d5f020121",
+      "bytes": 117343,
+      "daily_files": 30
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20230501damlbmp_zone_csv.zip",
+      "sha256": "bcd1def3d2ec5c2480d55ecc362db1ada0d0ed840c84cf36f01d240632d9ab9c",
+      "bytes": 119331,
+      "daily_files": 31
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20230601damlbmp_zone_csv.zip",
+      "sha256": "2041a2412147a672fea267e963b7373691c7b560c6a6ea856d46874bbd677cb3",
+      "bytes": 109087,
+      "daily_files": 30
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20230701damlbmp_zone_csv.zip",
+      "sha256": "e59a33fff23d1d2a810da24cdb42fff4435c0d0c23cfef71275c71800ed6bce0",
+      "bytes": 117117,
+      "daily_files": 31
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20230801damlbmp_zone_csv.zip",
+      "sha256": "dc9efaf3500e51a5f0ec9e1235bf76b6e9e9d1a74bece4bdbabdf98a60504088",
+      "bytes": 113608,
+      "daily_files": 31
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20230901damlbmp_zone_csv.zip",
+      "sha256": "5324b4b6aa295dcf91d61f25deec26305e2df233d292edbba1dc110af664b5d3",
+      "bytes": 108489,
+      "daily_files": 30
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20231001damlbmp_zone_csv.zip",
+      "sha256": "f6006f00a58aa9bfe3296679132645684987d155eaa98bf7bb2f164c148394ab",
+      "bytes": 115603,
+      "daily_files": 31
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20231101damlbmp_zone_csv.zip",
+      "sha256": "e895ec753767bef46dea5fa2f0fcf15993a54f306661ddd07482b41506423147",
+      "bytes": 116685,
+      "daily_files": 30
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20231201damlbmp_zone_csv.zip",
+      "sha256": "115fcf5783856124126c5ffbc7a5daa4c88f50caab7fbb64d7750cb0a4be5709",
+      "bytes": 106712,
+      "daily_files": 31
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20240101damlbmp_zone_csv.zip",
+      "sha256": "bdc73a2614787e93e3cea8cd17a1eb032dc862ec7f31d59075caba3e0a945f72",
+      "bytes": 118901,
+      "daily_files": 31
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20240201damlbmp_zone_csv.zip",
+      "sha256": "64d7adf7f10e02b199a27ad213c00e512f8af5269eb2d600a66a40922e541c5e",
+      "bytes": 104572,
+      "daily_files": 29
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20240301damlbmp_zone_csv.zip",
+      "sha256": "7bcf8b74308aff9bd5766ac982ea174d46c1f412f7b5c7f44d9305b7bea2d3bc",
+      "bytes": 102705,
+      "daily_files": 31
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20240401damlbmp_zone_csv.zip",
+      "sha256": "4246824880f5bcb6663397ac00117e177a37a10f4236f0e735596a06e5d0116c",
+      "bytes": 101970,
+      "daily_files": 30
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20240501damlbmp_zone_csv.zip",
+      "sha256": "49e66b29fb70f666d4ebc2e5edb3129713a00e77728da12157bdaca6c6aeccd3",
+      "bytes": 106126,
+      "daily_files": 31
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20240601damlbmp_zone_csv.zip",
+      "sha256": "20099071bae810cc165e35a328f618419c01fdfb731a3b409e776f12210d9428",
+      "bytes": 108958,
+      "daily_files": 30
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20240701damlbmp_zone_csv.zip",
+      "sha256": "8973ca7036bac839097acda4f57880f75c48e2cc7ca7e3c140a451b40ccc3518",
+      "bytes": 115124,
+      "daily_files": 31
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20240801damlbmp_zone_csv.zip",
+      "sha256": "58b33393fbc14539db2761c595501fbef66c1ac8334011773dde58c1dffda4bc",
+      "bytes": 108850,
+      "daily_files": 31
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20240901damlbmp_zone_csv.zip",
+      "sha256": "5949207161d04c128bd076caae163a0db79625a3f8fc82d790a5b731acca38e1",
+      "bytes": 104993,
+      "daily_files": 30
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20241001damlbmp_zone_csv.zip",
+      "sha256": "fb29723d27228b1e91b1d0ffc11f3592d45e7eb39966affb32da03b365244f95",
+      "bytes": 107483,
+      "daily_files": 31
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20241101damlbmp_zone_csv.zip",
+      "sha256": "fc0e247c42dd4cf089837480248a189ce2eada23c33c010881d065b5f4853c62",
+      "bytes": 108815,
+      "daily_files": 30
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20241201damlbmp_zone_csv.zip",
+      "sha256": "232b2b61d62c4272e94180066c344d6dd40e2473373876d8ff4ca889210aeac4",
+      "bytes": 121290,
+      "daily_files": 31
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20250101damlbmp_zone_csv.zip",
+      "sha256": "dd0de661a2eb63ee43c9e9ffa9cb4e73409e345b5751b5e5eb39e1f15897a1ca",
+      "bytes": 132068,
+      "daily_files": 31
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20250201damlbmp_zone_csv.zip",
+      "sha256": "52e0e2e4e69cbe6128886406cc0c4413f0c573453d0ad3afaa13e71ab493131a",
+      "bytes": 114140,
+      "daily_files": 28
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20250301damlbmp_zone_csv.zip",
+      "sha256": "b9a2c9e74f2916c16919ba3b2d880667c02b017b085b5813dbdeb1c556222044",
+      "bytes": 113173,
+      "daily_files": 31
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20250401damlbmp_zone_csv.zip",
+      "sha256": "f8d7d67d364f9eefd306d4b509d8ea3a0e68b95ea926fb779ef592304ac810bc",
+      "bytes": 109549,
+      "daily_files": 30
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20250501damlbmp_zone_csv.zip",
+      "sha256": "9cb2e545d4219947619ef68813b84a25bd48e7cb51fafe7b4a9769b46a4791ff",
+      "bytes": 113923,
+      "daily_files": 31
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20250601damlbmp_zone_csv.zip",
+      "sha256": "d61ac54ab24e2ab72bb2261243febf9d1ced25d19dd5965500333eef9b042b13",
+      "bytes": 109288,
+      "daily_files": 30
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20250701damlbmp_zone_csv.zip",
+      "sha256": "7d1ab5b53bbf60fda665e291411aacd5eb69cdbe92353ffb6475cf0d75eff8fe",
+      "bytes": 115561,
+      "daily_files": 31
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20250801damlbmp_zone_csv.zip",
+      "sha256": "0428dcfeeb1507c54a894ad3296a1dce7eb646c211444809e27479fc1082e337",
+      "bytes": 108509,
+      "daily_files": 31
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20250901damlbmp_zone_csv.zip",
+      "sha256": "5fcaf4eccb54522abae69b9e21d53cefa6e04d5fd81e1e9d974a3555017862d8",
+      "bytes": 113255,
+      "daily_files": 30
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20251001damlbmp_zone_csv.zip",
+      "sha256": "d328abff79d49ddf0300b31102a54ac8188e387f28423b9add78aadb08db9cde",
+      "bytes": 111125,
+      "daily_files": 31
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20251101damlbmp_zone_csv.zip",
+      "sha256": "a7761c608e37da08982b9514929726318f46faf3ec4920933dabbb9476ce8698",
+      "bytes": 108869,
+      "daily_files": 30
+    },
+    {
+      "url": "https://mis.nyiso.com/public/csv/damlbmp/20251201damlbmp_zone_csv.zip",
+      "sha256": "c4ea75c17f000ffa0a03196ebc7ed83cb3870c2b0c6e82c749ade312902a9cb9",
+      "bytes": 122191,
+      "daily_files": 31
+    }
+  ]
+}

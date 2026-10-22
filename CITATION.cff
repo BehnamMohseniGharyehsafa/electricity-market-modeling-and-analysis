@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software in research, please cite it and cite the original model papers."
+title: "Electricity market modeling and analysis: Electricity Market Lab"
+type: software
+authors:
+  - family-names: "Mohseni Gharyehsafa"
+    given-names: "Behnam"
+version: 1.0.0
+date-released: 2026-10-22
+url: "https://github.com/BehnamMohseniGharyehsafa/electricity-market-modeling-and-analysis"
+license: MIT
+keywords:
+  - electricity markets
+  - price forecasting
+  - machine learning
+  - deep learning
+  - NYISO
+  - time series
